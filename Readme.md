@@ -1,8 +1,8 @@
-# GrafQL
+<p align="center">
+  <img width="250" src="grafql.svg" />
+</p>
 
 _A distant cousin of GraphQL_
-
-## The Idea Behind
 
 When I learnt about GraphQL, a query language for API and a potential replacement of REST APIs, I was intrigued. GraphQL has a very easy idea, just ask for data you need. You can also ask for multiple Objects and perform `mutations` and `queries` in same request.
 
